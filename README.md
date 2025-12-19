@@ -41,3 +41,6 @@ Inbound Event
 - Replace orchestration layer with AWS Step Functions
 - Add message queue (SQS) for higher throughput
 - Centralized logging with CloudWatch
+
+- <img width="721" height="321" alt="ORCHESTRATION" src="https://github.com/user-attachments/assets/b6daeef9-af38-438e-a40c-2aba165c3d47" />
+
